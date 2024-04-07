@@ -15,10 +15,10 @@ git clone https://github.com/optimizedLP/digital_clock
   cd digital_clock
   python digital_clock.py
   ```
-<!--
-Output
+  
+## Output
 --------
-Once you run the code, it will render the output similar to what shown below;
+Once you run the code, it will render the following output:
 
-![digital_clock](https://user-images.githubusercontent.com/77124662/130321144-3776737b-dc39-4914-b19b-081aed8906b8.PNG)
--->
+![digital_clock](clock_output.png)
+
